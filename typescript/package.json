@@ -11,9 +11,11 @@
   "license": "ISC",
   "dependencies": {
     "@types/command-line-args": "^5.2.3",
-    "@types/node": "^20.12.8",
     "command-line-args": "^5.2.1",
     "ts-node": "^10.9.2",
     "typescript": "^5.4.5"
+  },
+  "devDependencies": {
+    "@types/node": "^20.12.10"
   }
 }
